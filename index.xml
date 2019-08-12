@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathan Lim</title>
-    <link>https://nathanlim.com/</link>
+    <link>//nathanlim.com/</link>
     <description>Recent content on Nathan Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 12 Aug 2019 20:27:13 +0800</lastBuildDate>
     
-	<atom:link href="https://nathanlim.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//nathanlim.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Get Assured</title>
-      <link>https://nathanlim.com/gallery/get-assured/</link>
+      <link>//nathanlim.com/gallery/get-assured/</link>
       <pubDate>Mon, 12 Aug 2019 20:27:13 +0800</pubDate>
       
-      <guid>https://nathanlim.com/gallery/get-assured/</guid>
+      <guid>//nathanlim.com/gallery/get-assured/</guid>
       <description>Summary: GetAssured is Singapore&amp;rsquo;s first life insurance based employee benefits portal. It provides a platform for companies to help their employees look for the best value life insurance products.
 • Implement multi-tenancy functionality to the GetAssured platform to create a unique site experience for each individual business clients. • Design and Convert the platform&amp;rsquo;s front end into React.js framework in order to facilitate future improvements as well as enhance customer&amp;rsquo;s experience.</description>
     </item>
