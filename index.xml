@@ -6,10 +6,31 @@
     <description>Recent content on Nathan Lim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Aug 2019 20:27:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 20:36:05 +0800</lastBuildDate>
     
 	<atom:link href="//nathanlim.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Yoripe</title>
+      <link>//nathanlim.com/gallery/yoripe/</link>
+      <pubDate>Mon, 12 Aug 2019 20:36:05 +0800</pubDate>
+      
+      <guid>//nathanlim.com/gallery/yoripe/</guid>
+      <description>Summary: Yoripe is Asia’s first social mobile app. YoRipe is different thanks to its receipt scanning capability which allows users to take a picture of their receipt to log items into their account. They get an inventory list and expiry date for each item on their phone as well as receive reminders before the food goes bad.
+Click here to check out Yoripe as featured on Block71
+I was the first developer in the company and got to know Xinyan through a school project.</description>
+    </item>
+    
+    <item>
+      <title>All Assured</title>
+      <link>//nathanlim.com/gallery/all-assured/</link>
+      <pubDate>Mon, 12 Aug 2019 20:29:19 +0800</pubDate>
+      
+      <guid>//nathanlim.com/gallery/all-assured/</guid>
+      <description>Summary: During my time in TrunkTech, the second project that I was involved in was the app AllAssured. It is a robo-assisted insurance optimiser that allows individuals to plan and optimise their spending on their insurance portfolio.
+In the preliminary phase, I helped to manage the product development of the application all the way from prototype to launch, ensuring code developed meets the requirements of management with an outsource team.</description>
+    </item>
     
     <item>
       <title>Get Assured</title>
@@ -19,6 +40,26 @@
       <guid>//nathanlim.com/gallery/get-assured/</guid>
       <description>Summary: GetAssured is Singapore&amp;rsquo;s first life insurance based employee benefits portal. It provides a platform for companies to help their employees look for the best value life insurance products.
 • Implement multi-tenancy functionality to the GetAssured platform to create a unique site experience for each individual business clients. • Design and Convert the platform&amp;rsquo;s front end into React.js framework in order to facilitate future improvements as well as enhance customer&amp;rsquo;s experience.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//nathanlim.com/about/</link>
+      <pubDate>Mon, 12 Aug 2019 19:51:05 +0800</pubDate>
+      
+      <guid>//nathanlim.com/about/</guid>
+      <description> Hi! I&amp;rsquo;m Nathan Lim Currently a Full-stack Developer in SpecialProjectsTeam@StashAway
+# Language Proficiencies: leveling = [&amp;quot;Go+Cadence&amp;quot;] proficient = [ &amp;quot;Kotlin+Springboot&amp;quot;, &amp;quot;Ruby+Rails&amp;quot;, &amp;quot;Python+Airflow:&amp;quot;, &amp;quot;JS+React&amp;quot;, &amp;quot;ReactNative&amp;quot; ]  </description>
+    </item>
+    
+    <item>
+      <title>Alphacamp</title>
+      <link>//nathanlim.com/gallery/alphacamp/</link>
+      <pubDate>Mon, 12 Aug 2019 19:31:34 +0800</pubDate>
+      
+      <guid>//nathanlim.com/gallery/alphacamp/</guid>
+      <description>Summary: The beginning of my coding journey. Was a mechanical engineering trained before this and the Alphacamp bootcamp trained me to be a coder. Developed 5 rails web applications from scratch to deployment. Apps consist of photo album app, forum, feedback app, Twitter clone, e-Commerce site.
+Technologies Used:  Ruby on Rails EmberJS HTML JS + JQuery Postgres Database  Notable Projects: • Built a functional mood journaling AI Chatbot by integrating Api.</description>
     </item>
     
   </channel>
