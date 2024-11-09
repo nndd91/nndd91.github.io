@@ -1,56 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Galleries on Nathan Lim</title>
-    <link>//nathanlim.com/gallery/</link>
+    <link>https://nathanlim.com/gallery/</link>
     <description>Recent content in Galleries on Nathan Lim</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 12 Aug 2019 20:36:05 +0800</lastBuildDate>
-    
-	<atom:link href="//nathanlim.com/gallery/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <image>
+      <title>Nathan Lim</title>
+      <url>https://nathanlim.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nathanlim.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Nov 2024 23:29:19 +0800</lastBuildDate>
+    <atom:link href="https://nathanlim.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StashAway</title>
+      <link>https://nathanlim.com/gallery/stashaway/</link>
+      <pubDate>Sat, 09 Nov 2024 23:29:19 +0800</pubDate>
+      <guid>https://nathanlim.com/gallery/stashaway/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary:&lt;/h3&gt;
+&lt;p&gt;6 yrs 2 mos&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lead Engineer (Trading)&lt;/strong&gt;
+Sep 2022 - Present&lt;/p&gt;
+&lt;p&gt;Led a team in migrating a critical legacy trading system to a microservices-based architecture with Micronaut, Kafka, and Temporal. Developed new workflows, managed incidents, and integrated features with legacy systems. Mentored junior engineers and coordinated cross-team efforts for smooth product launches.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lead Engineer (Workflow)&lt;/strong&gt;
+Sep 2020 - Aug 2022&lt;/p&gt;
+&lt;p&gt;Managed and upgraded Cadence and Temporal infrastructure, established best practices for Temporal workflows, and led the migration from Cadence to Temporal. Built an internal admin system to improve workflow management, implemented key company workflows, and created a permissions app using Go and Postgres.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Yoripe</title>
-      <link>//nathanlim.com/gallery/yoripe/</link>
+      <link>https://nathanlim.com/gallery/yoripe/</link>
       <pubDate>Mon, 12 Aug 2019 20:36:05 +0800</pubDate>
-      
-      <guid>//nathanlim.com/gallery/yoripe/</guid>
-      <description>Summary: Yoripe is Asia’s first social mobile app. YoRipe is different thanks to its receipt scanning capability which allows users to take a picture of their receipt to log items into their account. They get an inventory list and expiry date for each item on their phone as well as receive reminders before the food goes bad.
-Click here to check out Yoripe as featured on Block71
-I was the first developer in the company and got to know Xinyan through a school project.</description>
+      <guid>https://nathanlim.com/gallery/yoripe/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary:&lt;/h3&gt;
+&lt;p&gt;Yoripe is Asia’s first social mobile app. YoRipe is different thanks to its receipt scanning capability which allows users to take a picture of their receipt to log items into their account. They get an inventory list and expiry date for each item on their phone as well as receive reminders before the food goes bad.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@NUSEnterprise/block71-singapore-entrepreneur-feature-yoripe-40f3e9b2e4c5&#34;&gt;Click here to check out Yoripe as featured on Block71&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was the first developer in the company and got to know Xinyan through a school project. Helped her to bring her idea all the way from prototyping to a full fledge product consisting of Ruby on Rails backend, an admin panel using RailsAdmin, and a mobile app for both Android and iOS using React Native.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>All Assured</title>
-      <link>//nathanlim.com/gallery/all-assured/</link>
+      <link>https://nathanlim.com/gallery/all-assured/</link>
       <pubDate>Mon, 12 Aug 2019 20:29:19 +0800</pubDate>
-      
-      <guid>//nathanlim.com/gallery/all-assured/</guid>
-      <description>Summary: During my time in TrunkTech, the second project that I was involved in was the app AllAssured. It is a robo-assisted insurance optimiser that allows individuals to plan and optimise their spending on their insurance portfolio.
-In the preliminary phase, I helped to manage the product development of the application all the way from prototype to launch, ensuring code developed meets the requirements of management with an outsource team.</description>
+      <guid>https://nathanlim.com/gallery/all-assured/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary:&lt;/h3&gt;
+&lt;p&gt;During my time in TrunkTech, the second project that I was involved in was the app AllAssured. It is a robo-assisted insurance optimiser that allows individuals to plan and optimise their spending on their insurance portfolio.&lt;/p&gt;
+&lt;p&gt;In the preliminary phase, I helped to manage the product development of the application all the way from prototype to launch, ensuring code developed meets the requirements of management with an outsource team.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Get Assured</title>
-      <link>//nathanlim.com/gallery/get-assured/</link>
+      <link>https://nathanlim.com/gallery/get-assured/</link>
       <pubDate>Mon, 12 Aug 2019 20:27:13 +0800</pubDate>
-      
-      <guid>//nathanlim.com/gallery/get-assured/</guid>
-      <description>Summary: GetAssured is Singapore&amp;rsquo;s first life insurance based employee benefits portal. It provides a platform for companies to help their employees look for the best value life insurance products.
-• Implement multi-tenancy functionality to the GetAssured platform to create a unique site experience for each individual business clients. • Design and Convert the platform&amp;rsquo;s front end into React.js framework in order to facilitate future improvements as well as enhance customer&amp;rsquo;s experience.</description>
+      <guid>https://nathanlim.com/gallery/get-assured/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary:&lt;/h3&gt;
+&lt;p&gt;GetAssured is Singapore&amp;rsquo;s first life insurance based employee benefits portal. It provides a platform for companies to help their employees look for the best value life insurance products.&lt;/p&gt;
+&lt;p&gt;• Implement multi-tenancy functionality to the GetAssured platform to create a unique site experience for each individual business clients.
+• Design and Convert the platform&amp;rsquo;s front end into React.js framework in order to facilitate future improvements as well as enhance customer&amp;rsquo;s experience.
+• Conduct bug fixes and enhancement to improve the general stability and usability of the platform.
+• Isolate crawler bot and convert it into its own micro services with api for the main server so as to relieve stress on main server.
+• Set up, deploy and managed application using AWS web services such as EC2, S3.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alphacamp</title>
-      <link>//nathanlim.com/gallery/alphacamp/</link>
+      <link>https://nathanlim.com/gallery/alphacamp/</link>
       <pubDate>Mon, 12 Aug 2019 19:31:34 +0800</pubDate>
-      
-      <guid>//nathanlim.com/gallery/alphacamp/</guid>
-      <description>Summary: The beginning of my coding journey. Was a mechanical engineering trained before this and the Alphacamp bootcamp trained me to be a coder. Developed 5 rails web applications from scratch to deployment. Apps consist of photo album app, forum, feedback app, Twitter clone, e-Commerce site.
-Technologies Used:  Ruby on Rails EmberJS HTML JS + JQuery Postgres Database  Notable Projects: • Built a functional mood journaling AI Chatbot by integrating Api.</description>
+      <guid>https://nathanlim.com/gallery/alphacamp/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary:&lt;/h3&gt;
+&lt;p&gt;The beginning of my coding journey. Was a mechanical engineering trained before this and the Alphacamp bootcamp trained me to be a coder. Developed 5 rails web applications from scratch to deployment. Apps consist of photo album app, forum, feedback app, Twitter clone, e-Commerce site.&lt;/p&gt;
+&lt;h3 id=&#34;technologies-used&#34;&gt;Technologies Used:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ruby on Rails&lt;/li&gt;
+&lt;li&gt;EmberJS&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;JS + JQuery&lt;/li&gt;
+&lt;li&gt;Postgres Database&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;notable-projects&#34;&gt;Notable Projects:&lt;/h3&gt;
+&lt;p&gt;• Built a functional mood journaling AI Chatbot by integrating Api.ai with Rail&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
